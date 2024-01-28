@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello There~ 👾
+<hr>
+Wellcome to my Hub
+I am passionate about learning and keeping myself updated on the latest trends in technology.
 
 <!--
 **D-Valjean/D-Valjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
